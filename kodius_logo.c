@@ -26,8 +26,8 @@ hlf_len_lft){gap                  -= ceil(0.1*L_P_W)
 hlf_flg){hlf_flg                      =1;}else{gap+=ceil
 (0.1 * L_P_W); }                        for(int j = 0; j <
 rght_part_wd;j++                          ){if (j == 0 ||j== 
-(rght_part_wd-1)                            ){if(i<hlf_len_lft
-)printf("/");else                             if(i>=hlf_len_lft)
+(rght_part_wd-1))                           {if(i<=hlf_len_lft
+)printf("/");else                             if(i > hlf_len_lft)
 printf ("\\") ;}                                else if(i==0)printf
 ("-");else if (i                                  == F_LEN -1)printf
 ("_");else{if ((                                    c = fgetc(file))==
