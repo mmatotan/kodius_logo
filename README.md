@@ -115,7 +115,7 @@ EOF){printf(" ")                                      ;}else if (c=='\n'
                                                                              \wo people are al\
                                                                                \________________\
 ```
-Inspiracije:
+## Inspiracije:
 
 https://github.com/mame/quine-relay
 
