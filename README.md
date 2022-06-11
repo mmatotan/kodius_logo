@@ -7,7 +7,7 @@ kolege(pucal sam iz glave tak da ak sam nekoga zaboravil
 LMK), projekti i oni values sa weba.
 
 
-Pisano u Cu(puno koda, a komajler podrzava ovakvo bogohuljenje, ajde Cabraja da te vidim u kak bi ovo u Pythonu napiso :P), nadam se
+Pisano u Cu(puno koda, a kompajler podrzava ovakvo bogohuljenje, ajde Cabraja da te vidim u kak bi ovo u Pythonu napiso :P), nadam se
 da svi imate GCC kompajler(mislim da dolazi preinstalled na unixu). 
 Zabunom sam pushal kodi, to je kompajlirani kod. Da si sami kompajlirate i pokrenete:
 
